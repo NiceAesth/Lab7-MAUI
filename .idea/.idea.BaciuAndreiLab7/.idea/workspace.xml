@@ -10,101 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9078ab58-47d6-48a4-9176-d249279e989b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/AndroidProjectSystem.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_activity_activity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_activity_activity_ktx.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_annotation_annotation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_annotation_annotation_experimental.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_annotation_annotation_jvm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_appcompat_appcompat.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_appcompat_appcompat_resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_arch_core_core_common.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_arch_core_core_runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_browser_browser.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_cardview_cardview.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_collection_collection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_collection_collection_jvm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_collection_collection_ktx.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_concurrent_concurrent_futures.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_constraintlayout_constraintlayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_constraintlayout_constraintlayout_core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_coordinatorlayout_coordinatorlayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_core_core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_core_core_ktx.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_core_core_viewtree.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_cursoradapter_cursoradapter.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_customview_customview.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_customview_customview_poolingcontainer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_documentfile_documentfile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_drawerlayout_drawerlayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_dynamicanimation_dynamicanimation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_emoji2_emoji2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_emoji2_emoji2_views_helper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_exifinterface_exifinterface.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_fragment_fragment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_fragment_fragment_ktx.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_interpolator_interpolator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_legacy_legacy_support_core_utils.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_common.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_common_jvm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_livedata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_livedata_core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_livedata_core_ktx.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_process.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_runtime_android.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_runtime_ktx.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_runtime_ktx_android.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_viewmodel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_viewmodel_android.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_viewmodel_ktx.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_lifecycle_lifecycle_viewmodel_savedstate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_loader_loader.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_localbroadcastmanager_localbroadcastmanager.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_navigation_navigation_common.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_navigation_navigation_fragment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_navigation_navigation_runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_navigation_navigation_ui.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_print_print.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_profileinstaller_profileinstaller.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_recyclerview_recyclerview.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_resourceinspection_resourceinspection_annotation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_savedstate_savedstate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_savedstate_savedstate_ktx.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_security_security_crypto.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_slidingpanelayout_slidingpanelayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_startup_startup_runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_swiperefreshlayout_swiperefreshlayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_tracing_tracing.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_transition_transition.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_vectordrawable_vectordrawable.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_vectordrawable_vectordrawable_animated.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_versionedparcelable_versionedparcelable.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_viewpager2_viewpager2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_viewpager_viewpager.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_window_extensions_core_core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/androidx_window_window.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/annotations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/com_google_android_material_material.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/disklrucache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/gifdecoder.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/glide.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/guava_listenablefuture.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/org_jetbrains_annotations_24_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/org_jetbrains_kotlin_kotlin_stdlib_1_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/org_jetbrains_kotlin_kotlin_stdlib_common_1_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/org_jetbrains_kotlinx_kotlinx_coroutines_android_1_7_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/libraries/org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_7_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,8 +40,10 @@
     <setting file="file://$USER_HOME$/.dotnet/packs/Microsoft.iOS.Sdk.net8.0_18.0/18.0.8324/targets/Xamarin.Shared.Sdk.targets" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaciuAndreiLab7/AboutPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaciuAndreiLab7/Platforms/iOS/AppDelegate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaciuAndreiLab7/obj/Debug/net9.0-ios18.0/iossimulator-arm64/BaciuAndreiLab7.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/global.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file:///usr/local/share/dotnet/packs/Microsoft.Android.Sdk.Darwin/35.0.105/tools/Xamarin.Android.Tooling.targets" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///usr/local/share/dotnet/sdk/9.0.308/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_9_default.globalconfig" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -144,7 +52,7 @@
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="SWEA" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -178,7 +86,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "CodeInspectionSettingsId",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -226,7 +134,7 @@
       <workItem from="1764112503863" duration="3636000" />
       <workItem from="1764116168124" duration="134000" />
       <workItem from="1764116313623" duration="327000" />
-      <workItem from="1764117467841" duration="103000" />
+      <workItem from="1764117467841" duration="822000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <option name="closed" value="true" />
@@ -244,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764116027445</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix: rider config">
+      <option name="closed" value="true" />
+      <created>1764117720022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764117720022</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +172,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="feat: initial commit" />
     <MESSAGE value="fix: runtime configs, update to .net9 for ios 26" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: runtime configs, update to .net9 for ios 26" />
+    <MESSAGE value="fix: rider config" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: rider config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
