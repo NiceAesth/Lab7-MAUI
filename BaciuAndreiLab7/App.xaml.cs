@@ -10,11 +10,9 @@ public partial class App
     {
         get
         {
-            if (_database == null)
-            {
-                string dbPath = Path.Combine(FileSystem.AppDataDirectory, "ShoppingList.db3");
-                _database = new ShoppingListDatabase(dbPath);
-            }
+            if (_database != null) return _database;
+            var dbPath = Path.Combine(FileSystem.AppDataDirectory, "ShoppingList.db3");
+            _database = new ShoppingListDatabase(dbPath);
             return _database;
         }
     }

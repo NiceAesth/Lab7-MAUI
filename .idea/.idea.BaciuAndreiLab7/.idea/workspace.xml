@@ -10,16 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9078ab58-47d6-48a4-9176-d249279e989b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Data/ShoppingListDatabase.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Models/ShopList.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Models/ShopList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Models/ShopList.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +46,9 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/.dotnet/packs/Microsoft.iOS.Sdk.net8.0_18.0/18.0.8324/targets/Xamarin.Shared.Sdk.targets" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Users/baciuandrei/RiderProjects/BaciuAndreiLab7/BaciuAndreiLab7/AboutPage.xaml.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaciuAndreiLab7/AboutPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/baciuandrei/RiderProjects/BaciuAndreiLab7/BaciuAndreiLab7/App.xaml.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaciuAndreiLab7/Platforms/iOS/AppDelegate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Users/baciuandrei/RiderProjects/BaciuAndreiLab7/BaciuAndreiLab7/Resources/Styles/Styles.xaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/baciuandrei/RiderProjects/BaciuAndreiLab7/BaciuAndreiLab7/Resources/Styles/Styles.xaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaciuAndreiLab7/obj/Debug/net9.0-ios18.0/iossimulator-arm64/BaciuAndreiLab7.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/global.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file:///usr/local/share/dotnet/packs/Microsoft.Android.Sdk.Darwin/35.0.105/tools/Xamarin.Android.Tooling.targets" root0="FORCE_HIGHLIGHTING" />
@@ -161,7 +154,7 @@
       <workItem from="1764116313623" duration="327000" />
       <workItem from="1764117467841" duration="822000" />
       <workItem from="1764118543838" duration="3099000" />
-      <workItem from="1764183375088" duration="1553000" />
+      <workItem from="1764183375088" duration="2008000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <option name="closed" value="true" />
@@ -195,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764119507090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: add shopping list pages and sqlite local database">
+      <option name="closed" value="true" />
+      <created>1764185089683</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764185089683</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +210,8 @@
     <MESSAGE value="fix: runtime configs, update to .net9 for ios 26" />
     <MESSAGE value="fix: rider config" />
     <MESSAGE value="chore: apply rider suggestions" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: apply rider suggestions" />
+    <MESSAGE value="feat: add shopping list pages and sqlite local database" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add shopping list pages and sqlite local database" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
