@@ -10,12 +10,26 @@
     <TabBar>
         <ShellContent
             Title="Shopping Lists"
-            ContentTemplate="{DataTemplate local:MainPage}"
-        />
+            ContentTemplate="{DataTemplate local:MainPage}">
+            <ShellContent.Icon>
+                <FontImageSource 
+                    FontFamily="FAsolid" 
+                    Glyph="{x:Static local:FontAwesome+Solid.ShoppingCart}" 
+                    Size="20" 
+                    Color="{AppThemeBinding Light=#512BD4, Dark=White}"/>
+            </ShellContent.Icon>
+        </ShellContent>
         <ShellContent
             Title="About"
-            ContentTemplate="{DataTemplate local:AboutPage}"
-        />
+            ContentTemplate="{DataTemplate local:AboutPage}">
+            <ShellContent.Icon>
+                <FontImageSource 
+                    FontFamily="FAsolid" 
+                    Glyph="{x:Static local:FontAwesome+Solid.CircleInfo}" 
+                    Size="20" 
+                    Color="{AppThemeBinding Light=#512BD4, Dark=White}"/>
+            </ShellContent.Icon>
+        </ShellContent>
     </TabBar>
 
 </Shell>
