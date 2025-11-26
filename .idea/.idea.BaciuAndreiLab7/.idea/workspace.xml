@@ -10,9 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9078ab58-47d6-48a4-9176-d249279e989b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Data/ShoppingListDatabase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Models/ShopList.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/Styles/Styles.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/Styles/Styles.xaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +30,11 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -54,13 +66,13 @@
       <facet id="BaciuAndreiLab7/invalid/Android Facet - BaciuAndreiLab7" />
     </ignored-facets>
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="SWEA" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -86,7 +98,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "code.cleanup.on.save": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "lab8",
     "iOS.BaciuAndreiLab7.executor": "Run",
     "macOS.BaciuAndreiLab7.executor": "Run",
     "node.js.detected.package.tslint": "true",
@@ -98,7 +110,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Android.BaciuAndreiLab7">
+  <component name="RunManager" selected="iOS.BaciuAndreiLab7">
     <configuration name="BaciuAndreiLab7" type="XamarinAndroidProject" factoryName="Xamarin.Android">
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -149,6 +161,7 @@
       <workItem from="1764116313623" duration="327000" />
       <workItem from="1764117467841" duration="822000" />
       <workItem from="1764118543838" duration="3099000" />
+      <workItem from="1764183375088" duration="1553000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <option name="closed" value="true" />
@@ -213,19 +226,6 @@
           <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="3" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml.cs</url>
-          <line>6</line>
-          <properties documentPath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml.cs" containingFunctionPresentation="Constructor 'AppShell'">
-            <startOffsets>
-              <option value="96" />
-            </startOffsets>
-            <endOffsets>
-              <option value="118" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
