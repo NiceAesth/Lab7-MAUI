@@ -10,8 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9078ab58-47d6-48a4-9176-d249279e989b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.run/BaciuAndreiLab7.run.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/AboutPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/AboutPage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/MainPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/MainPage.xaml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +61,7 @@
 }]]></component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="Toolset" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -144,7 +149,7 @@
       <workItem from="1764116168124" duration="134000" />
       <workItem from="1764116313623" duration="327000" />
       <workItem from="1764117467841" duration="822000" />
-      <workItem from="1764118543838" duration="336000" />
+      <workItem from="1764118543838" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <option name="closed" value="true" />
@@ -205,10 +210,10 @@
           <line>6</line>
           <properties documentPath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml.cs" containingFunctionPresentation="Constructor 'AppShell'">
             <startOffsets>
-              <option value="104" />
+              <option value="96" />
             </startOffsets>
             <endOffsets>
-              <option value="126" />
+              <option value="118" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="6" />
