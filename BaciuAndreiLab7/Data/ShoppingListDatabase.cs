@@ -1,5 +1,6 @@
 using BaciuAndreiLab7.Models;
 using SQLite;
+using SQLiteNetExtensions.Extensions;
 
 namespace BaciuAndreiLab7.Data;
 
@@ -20,11 +21,20 @@ public class ShoppingListDatabase
         return _database.Table<Product>().ToListAsync();
     }
 
-    public Task<List<ListProduct>> GetListProductAsync(int shopListId)
+    public async Task<List<ListProduct>> GetListProductAsync(int shopListId)
     {
-        return _database.Table<ListProduct>()
+        var listProducts = await _database.Table<ListProduct>()
             .Where(lp => lp.ShopListID == shopListId)
             .ToListAsync();
+        
+        foreach (var listProduct in listProducts)
+        {
+            listProduct.Product = await _database.Table<Product>()
+                .Where(p => p.ID == listProduct.ProductID)
+                .FirstOrDefaultAsync();
+        }
+        
+        return listProducts;
     }
 
     public Task<int> SaveProductAsync(Product product)
@@ -40,6 +50,11 @@ public class ShoppingListDatabase
     public Task<int> DeleteProductAsync(Product product)
     {
         return _database.DeleteAsync(product);
+    }
+
+    public Task<int> DeleteListProductAsync(ListProduct listProduct)
+    {
+        return _database.DeleteAsync(listProduct);
     }
 
     public Task<List<ShopList>> GetShopListsAsync()

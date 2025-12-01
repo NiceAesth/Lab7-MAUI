@@ -28,6 +28,7 @@
                     Grid.Column="1"
                     Clicked="OnDeleteButtonClicked" />
             <Button Text="Add Product"
+                    Grid.Column="0"
                     Grid.Row="1"
                     Clicked="OnChooseButtonClicked" />
         </Grid>
@@ -35,8 +36,27 @@
         <ListView x:Name="ListView"
                   Margin="20">
             <ListView.ItemTemplate>
-                <DataTemplate>
-                    <TextCell Detail="{Binding Description}" />
+                <DataTemplate x:DataType="models:ListProduct">
+                    <ViewCell>
+                        <Grid Padding="10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="Auto" />
+                            </Grid.ColumnDefinitions>
+                            
+                            <Label Text="{Binding Product.Description}"
+                                   VerticalOptions="Center"
+                                   Grid.Column="0" />
+                            
+                            <Button Text="Delete"
+                                    Grid.Column="1"
+                                    CommandParameter="{Binding .}"
+                                    Clicked="OnDeleteProductButtonClicked"
+                                    BackgroundColor="Red"
+                                    TextColor="White"
+                                    WidthRequest="80" />
+                        </Grid>
+                    </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>

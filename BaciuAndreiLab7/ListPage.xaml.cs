@@ -33,6 +33,15 @@ public partial class ListPage
         await Navigation.PopAsync();
     }
     
+    private async void OnDeleteProductButtonClicked(object sender, EventArgs e)
+    {
+        var button = (Button)sender;
+        var listProduct = (ListProduct)button.CommandParameter;
+        await App.Database.DeleteListProductAsync(listProduct);
+        var shopList = (ShopList)BindingContext;
+        ListView.ItemsSource = await App.Database.GetListProductAsync(shopList.ID);
+    }
+    
     protected override async void OnAppearing()
     {
         base.OnAppearing();

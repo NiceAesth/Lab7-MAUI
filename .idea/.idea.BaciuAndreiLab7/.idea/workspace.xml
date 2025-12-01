@@ -10,38 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9078ab58-47d6-48a4-9176-d249279e989b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Models/ListProduct.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Models/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ProductPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ProductPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ValidationBehavior.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BaciuAndreiLab7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/AboutPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/AboutPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/AppShell.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/BaciuAndreiLab7.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Data/ShoppingListDatabase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Data/ShoppingListDatabase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/FontAwesome.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/FontAwesome.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListEntryPage.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/ListPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/MainPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Models/ShopList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Models/ShopList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/Android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/Android/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/MacCatalyst/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/MacCatalyst/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/Tizen/tizen-manifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/Tizen/tizen-manifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/Windows/Package.appxmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/Windows/Package.appxmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/Windows/app.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/Windows/app.manifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/iOS/AppDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/iOS/AppDelegate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/iOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/iOS/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/iOS/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Platforms/iOS/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/AppIcon/appicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/AppIcon/appicon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/AppIcon/appiconfg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/AppIcon/appiconfg.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/Splash/splash.svg" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/Splash/splash.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/Styles/Colors.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/Styles/Colors.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/Styles/Styles.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Resources/Styles/Styles.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaciuAndreiLab7/Models/ListProduct.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BaciuAndreiLab7/Models/ListProduct.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,9 +46,9 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/.dotnet/packs/Microsoft.iOS.Sdk.net8.0_18.0/18.0.8324/targets/Xamarin.Shared.Sdk.targets" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/fbe98590646aebff9544d108a38af157364681ca7472f44fcd224435a11f59b/Runtime.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaciuAndreiLab7/AboutPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Users/baciuandrei/RiderProjects/BaciuAndreiLab7/BaciuAndreiLab7/App.xaml.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/baciuandrei/RiderProjects/BaciuAndreiLab7/BaciuAndreiLab7/ListEntryPage.xaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/baciuandrei/RiderProjects/BaciuAndreiLab7/BaciuAndreiLab7/ListPage.xaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaciuAndreiLab7/Platforms/iOS/AppDelegate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaciuAndreiLab7/obj/Debug/net9.0-ios18.0/iossimulator-arm64/BaciuAndreiLab7.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/global.json" root0="FORCE_HIGHLIGHTING" />
@@ -183,7 +156,7 @@
       <workItem from="1764117467841" duration="822000" />
       <workItem from="1764118543838" duration="3099000" />
       <workItem from="1764183375088" duration="2666000" />
-      <workItem from="1764321796131" duration="3023000" />
+      <workItem from="1764321796131" duration="4406000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <option name="closed" value="true" />
@@ -233,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764185468002</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: add products to list">
+      <option name="closed" value="true" />
+      <created>1764589918487</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764589918487</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +230,8 @@
     <MESSAGE value="chore: apply rider suggestions" />
     <MESSAGE value="feat: add shopping list pages and sqlite local database" />
     <MESSAGE value="feat: add data types to compile bindings" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add data types to compile bindings" />
+    <MESSAGE value="feat: add products to list" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add products to list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
