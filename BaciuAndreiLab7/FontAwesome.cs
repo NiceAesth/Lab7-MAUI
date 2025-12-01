@@ -17,14 +17,14 @@ public static class FontAwesome
         public const string Check = "\uf00c";
         public const string Times = "\uf00d";
     }
-    
+
     public static class Regular
     {
         public const string Heart = "\uf004";
         public const string Star = "\uf005";
         public const string User = "\uf007";
     }
-    
+
     public static class Brands
     {
         public const string Apple = "\uf179";

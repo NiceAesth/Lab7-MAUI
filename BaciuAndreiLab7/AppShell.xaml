@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <Shell
     x:Class="BaciuAndreiLab7.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
@@ -12,33 +13,33 @@
             Title="Welcome"
             ContentTemplate="{DataTemplate local:MainPage}">
             <ShellContent.Icon>
-                <FontImageSource 
-                    FontFamily="FAsolid" 
-                    Glyph="{x:Static local:FontAwesome+Solid.House}" 
-                    Size="20" 
-                    Color="{AppThemeBinding Light=#512BD4, Dark=White}"/>
+                <FontImageSource
+                    FontFamily="FAsolid"
+                    Glyph="{x:Static local:FontAwesome+Solid.House}"
+                    Size="20"
+                    Color="{AppThemeBinding Light=#512BD4, Dark=White}" />
             </ShellContent.Icon>
         </ShellContent>
         <ShellContent
             Title="About"
             ContentTemplate="{DataTemplate local:AboutPage}">
             <ShellContent.Icon>
-                <FontImageSource 
-                    FontFamily="FAsolid" 
-                    Glyph="{x:Static local:FontAwesome+Solid.CircleInfo}" 
-                    Size="20" 
-                    Color="{AppThemeBinding Light=#512BD4, Dark=White}"/>
+                <FontImageSource
+                    FontFamily="FAsolid"
+                    Glyph="{x:Static local:FontAwesome+Solid.CircleInfo}"
+                    Size="20"
+                    Color="{AppThemeBinding Light=#512BD4, Dark=White}" />
             </ShellContent.Icon>
         </ShellContent>
         <ShellContent
             Title="Shopping Lists"
             ContentTemplate="{DataTemplate local:ListEntryPage}">
             <ShellContent.Icon>
-                <FontImageSource 
-                    FontFamily="FAsolid" 
-                    Glyph="{x:Static local:FontAwesome+Solid.ShoppingCart}" 
-                    Size="20" 
-                    Color="{AppThemeBinding Light=#512BD4, Dark=White}"/>
+                <FontImageSource
+                    FontFamily="FAsolid"
+                    Glyph="{x:Static local:FontAwesome+Solid.ShoppingCart}"
+                    Size="20"
+                    Color="{AppThemeBinding Light=#512BD4, Dark=White}" />
             </ShellContent.Icon>
         </ShellContent>
     </TabBar>

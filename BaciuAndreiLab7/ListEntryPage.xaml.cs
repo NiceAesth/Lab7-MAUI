@@ -1,3 +1,5 @@
+using BaciuAndreiLab7.Models;
+
 namespace BaciuAndreiLab7;
 
 public partial class ListEntryPage
@@ -10,25 +12,25 @@ public partial class ListEntryPage
     protected override async void OnAppearing()
     {
         base.OnAppearing();
-        ListView.ItemsSource = await App.Database.GetAllAsync();
+        ListView.ItemsSource = await App.Database.GetShopListsAsync();
     }
-    
-    async void OnShoppingListAddClicked(object sender, EventArgs e)
+
+    private async void OnShoppingListAddClicked(object sender, EventArgs e)
     {
         await Navigation.PushAsync(new ListPage
         {
-            BindingContext = new Models.ShopList()
+            BindingContext = new ShopList()
         });
     }
 
-    async void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)
+    private async void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)
     {
         if (e.SelectedItem == null)
             return;
 
         await Navigation.PushAsync(new ListPage
         {
-            BindingContext = e.SelectedItem as Models.ShopList
+            BindingContext = e.SelectedItem as ShopList
         });
     }
 }

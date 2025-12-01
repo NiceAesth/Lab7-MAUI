@@ -1,3 +1,5 @@
+using BaciuAndreiLab7.Models;
+
 namespace BaciuAndreiLab7;
 
 public partial class ListPage
@@ -6,19 +8,35 @@ public partial class ListPage
     {
         InitializeComponent();
     }
-    
-    async void OnSaveButtonClicked(object sender, EventArgs e)
+
+    private async void OnChooseButtonClicked(object sender, EventArgs e)
     {
-        var shopList = (Models.ShopList)BindingContext;
+        await Navigation.PushAsync(new ProductPage((ShopList)
+            BindingContext)
+        {
+            BindingContext = new Product()
+        });
+    }
+
+    private async void OnSaveButtonClicked(object sender, EventArgs e)
+    {
+        var shopList = (ShopList)BindingContext;
         shopList.Date = DateTime.UtcNow;
-        await App.Database.SaveAsync(shopList);
+        await App.Database.SaveShopListAsync(shopList);
         await Navigation.PopAsync();
     }
 
-    async void OnDeleteButtonClicked(object sender, EventArgs e)
+    private async void OnDeleteButtonClicked(object sender, EventArgs e)
     {
-        var shopList = (Models.ShopList)BindingContext;
-        await App.Database.DeleteAsync(shopList);
+        var shopList = (ShopList)BindingContext;
+        await App.Database.DeleteShopListAsync(shopList);
         await Navigation.PopAsync();
+    }
+    
+    protected override async void OnAppearing()
+    {
+        base.OnAppearing();
+        var shopList = (ShopList)BindingContext;
+        ListView.ItemsSource = await App.Database.GetListProductAsync(shopList.ID);
     }
 }

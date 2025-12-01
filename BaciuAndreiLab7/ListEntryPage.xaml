@@ -5,7 +5,7 @@
              xmlns:models="clr-namespace:BaciuAndreiLab7.Models"
              x:Class="BaciuAndreiLab7.ListEntryPage">
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Add Shopping List" Clicked="OnShoppingListAddClicked"/>
+        <ToolbarItem Text="Add Shopping List" Clicked="OnShoppingListAddClicked" />
     </ContentPage.ToolbarItems>
     <ListView x:Name="ListView"
               Margin="20"

@@ -4,7 +4,12 @@ namespace BaciuAndreiLab7;
 
 public partial class App
 {
-    private static ShoppingListDatabase? _database = null;
+    private static ShoppingListDatabase? _database;
+
+    public App()
+    {
+        InitializeComponent();
+    }
 
     public static ShoppingListDatabase Database
     {
@@ -15,11 +20,6 @@ public partial class App
             _database = new ShoppingListDatabase(dbPath);
             return _database;
         }
-    }
-    
-    public App()
-    {
-        InitializeComponent();
     }
 
     protected override Window CreateWindow(IActivationState? activationState)
